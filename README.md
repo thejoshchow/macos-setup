@@ -63,6 +63,7 @@ docker
 discord
 hiddenbar
 raycast
+scroll-reverser
 ```
 
 `xargs brew install --cask < apps.txt`
