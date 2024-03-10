@@ -148,6 +148,7 @@ module.exports = {
     "hyper-hide-title",
     "hypercwd",
     "hyper-tabs-enhanced",
+    "hyper-quit",
   ],
   // in development, you can create a directory under
   // `~/.hyper_plugins/local/` and include it here
