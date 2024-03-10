@@ -26,6 +26,12 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 - install MesloLGS NS font family
 - copy [config](./p10k.zsh) into root directory
 
+## install dev envs
+
+`brew install nvm`  
+`brew install openjdk`  
+`brew install --cask miniconda`
+
 ## omz plugins
 
 plugins.txt
