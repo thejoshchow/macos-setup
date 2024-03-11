@@ -71,6 +71,8 @@ hiddenbar
 raycast
 scroll-reverser
 cursr
+zoom
+1kc-razer
 ```
 
 `xargs brew install --cask < apps.txt`
