@@ -1,5 +1,7 @@
 ## install xcode
 
+either install full package through app store or just install xcode command line tools via `xcode-select --install`
+
 ## install [brew](https://brew.sh/)
 
 ```
