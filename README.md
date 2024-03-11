@@ -70,6 +70,7 @@ discord
 hiddenbar
 raycast
 scroll-reverser
+cursr
 ```
 
 `xargs brew install --cask < apps.txt`
