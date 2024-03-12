@@ -75,6 +75,7 @@ scroll-reverser
 cursr
 zoom
 1kc-razer
+sonos
 ```
 
 `xargs brew install --cask < apps.txt`
