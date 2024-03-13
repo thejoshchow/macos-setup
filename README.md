@@ -76,6 +76,7 @@ cursr
 zoom
 1kc-razer
 sonos
+pictogram
 ```
 
 `xargs brew install --cask < apps.txt`
