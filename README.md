@@ -1,5 +1,5 @@
 ## show app switcher on all displays
-`defaults write com.apple.Dock appswitcher-all-displays -bool true; killall Dock`
+```defaults write com.apple.Dock appswitcher-all-displays -bool true; killall Dock```
 
 ## install xcode
 
