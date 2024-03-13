@@ -1,3 +1,6 @@
+## show app switcher on all displays
+`defaults write com.apple.Dock appswitcher-all-displays -bool true; killall Dock`
+
 ## install xcode
 
 either install full package through app store or just install xcode command line tools via `xcode-select --install`
