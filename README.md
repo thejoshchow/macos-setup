@@ -77,6 +77,7 @@ zoom
 1kc-razer
 sonos
 pictogram
+monitorcontrol
 ```
 
 `xargs brew install --cask < apps.txt`
