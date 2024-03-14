@@ -50,6 +50,7 @@ zsh-syntax-highlighting
 thefuck
 zoxide
 fzf
+fastfetch
 ```
 
 1. `xargs brew install < plugins.txt`
