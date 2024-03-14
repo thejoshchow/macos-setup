@@ -26,7 +26,6 @@ either install full package through app store or just install xcode command line
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
 ```
 
 **install [powerlevel10k](https://github.com/romkatv/powerlevel10k)**
