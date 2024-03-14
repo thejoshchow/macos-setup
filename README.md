@@ -51,6 +51,7 @@ thefuck
 zoxide
 fzf
 fastfetch
+eza
 ```
 
 1. `xargs brew install < plugins.txt`

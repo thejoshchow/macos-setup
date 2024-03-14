@@ -62,7 +62,7 @@
     "Red Component" : 0.73333334922790527
   },
   "Working Directory" : "\/Users\/joshchow",
-  "Blinking Cursor" : false,
+  "Blinking Cursor" : true,
   "Disable Window Resizing" : true,
   "Sync Title" : false,
   "Prompt Before Closing 2" : false,
@@ -797,7 +797,7 @@
     "Red Component" : 0.73333334922790527
   },
   "Name" : "Hotkey Window",
-  "Blinking Cursor" : false,
+  "Blinking Cursor" : true,
   "Guid" : "03DD5CA5-C77B-497A-8EA0-A9DDC472A32B",
   "Idle Code" : 0,
   "Ansi 10 Color" : {
