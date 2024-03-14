@@ -1,4 +1,5 @@
 ## show app switcher on all displays
+
 ```
 defaults write com.apple.Dock appswitcher-all-displays -bool true; killall Dock
 ```
@@ -13,13 +14,13 @@ either install full package through app store or just install xcode command line
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-## install [hyper](https://hyper.is/)
+## install [hyper](https://hyper.is/) and [iterm2](https://iterm2.com/)
 
-```
-brew install --cask hyper
-```
+`brew install --cask hyper`
+`brew install --cask iterm2`
 
 [hyper settings and plugins](./hyper.js)
+[iterm profiles](./iterm2-profiles.json)
 
 ## install [omz](https://ohmyz.sh/)
 
