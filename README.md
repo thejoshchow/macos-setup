@@ -66,7 +66,6 @@ apps.txt
 arc
 homebrew/cask-versions/google-chrome-dev
 homebrew/cask-versions/firefox-developer-edition
-reflex
 aldente
 istat-menus
 notion
@@ -85,6 +84,7 @@ zoom
 sonos
 pictogram
 monitorcontrol
+macmediakeyforwarder
 ```
 
 `xargs brew install --cask < apps.txt`
