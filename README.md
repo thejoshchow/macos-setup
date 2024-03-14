@@ -89,6 +89,6 @@ macmediakeyforwarder
 
 `xargs brew install --cask < apps.txt`
 
-## install vscode extensions and settings
+## vscode extensions and settings
 
 [https://github.com/thejoshchow/vscode-settings](https://github.com/thejoshchow/vscode-settings)
