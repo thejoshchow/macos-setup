@@ -16,10 +16,10 @@ either install full package through app store or just install xcode command line
 
 ## install [hyper](https://hyper.is/) and [iterm2](https://iterm2.com/)
 
-`brew install --cask hyper`
+`brew install --cask hyper`  
 `brew install --cask iterm2`
 
-[hyper settings and plugins](./hyper.js)
+[hyper settings and plugins](./hyper.js)  
 [iterm profiles](./iterm2-profiles.json)
 
 ## install [omz](https://ohmyz.sh/)
