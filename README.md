@@ -66,6 +66,7 @@ apps.txt
 arc
 homebrew/cask-versions/google-chrome-dev
 homebrew/cask-versions/firefox-developer-edition
+beekeeper-studio
 aldente
 istat-menus
 notion
