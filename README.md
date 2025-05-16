@@ -78,10 +78,8 @@ docker
 discord
 hiddenbar
 raycast
-scroll-reverser
 cursr
 zoom
-1kc-razer
 sonos
 pictogram
 monitorcontrol
